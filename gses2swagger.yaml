@@ -57,7 +57,7 @@ paths:
         "200":
           description: "Повертається актуальний курс BTC до UAH"
           schema:
-            type: "integer"
+            type: "number"
         "400":
           description: "Invalid status value"
   /subscribe:
